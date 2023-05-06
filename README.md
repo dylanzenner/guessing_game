@@ -1,3 +1,3 @@
 # Rust me up DADDY!
 
-cargo run
+Open the project and navigate to src/main.rs and run ```cargo run```
